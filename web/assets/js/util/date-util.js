@@ -1,8 +1,8 @@
-const oneMinute = 1000 * 60; // 一分钟的毫秒数
-const oneHour = oneMinute * 60; // 一小时的毫秒数
-const oneDay = oneHour * 24; // 一天的毫秒数
-const oneWeek = oneDay * 7; // 一星期的毫秒数
-const oneMonth = oneDay * 30; // 一个月的毫秒数
+const oneMinute = 1000 * 60;
+const oneHour = oneMinute * 60;
+const oneDay = oneHour * 24;
+const oneWeek = oneDay * 7;
+const oneMonth = oneDay * 30;
 
 /**
  * 按天数减少
